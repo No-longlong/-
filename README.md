@@ -3,4 +3,4 @@
 #### #금융, #파이썬, #머신러닝, #딥러닝
 
 - 교육계획표는 아래와 같습니다.
-![education_planner](./img/planner.png)
+![education_planner](./image/planner.png)
